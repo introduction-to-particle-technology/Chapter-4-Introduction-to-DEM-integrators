@@ -9,4 +9,4 @@ The examples are coded in Python, which is one of the more user-friendly program
 
 Click the badge below to interact with the notebook:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/introduction-to-dem-integrators-we94fkr8/lab/tree/Introduction%20to%20DEM%20integrators.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/introduction-to-particle-technology/Chapter-4-Introduction-to-DEM-integrators/19c47f7321700bffba5e199e3e5051dc23fe6d39?urlpath=lab%2Ftree%2FIntroduction%20to%20DEM%20integrators.ipynb)
